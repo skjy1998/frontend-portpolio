@@ -41,9 +41,8 @@
 | 지도 메인 화면 | 장소 상세 화면 |
 |----------------|----------------|
 | ![](./images/map_screen.png) | ![](./images/placedetail.png) |
-| 관련 게시물 화면 | 장소 상세 화면 |
-|------------------|----------------|
-| ![](./images/placeContent.png) | ![](./images/place-detail.png) |
+| 관련 게시물 화면 |
+| ![](./images/placeContent.png) |
 
 
 - 지도 기반으로 장소를 탐색하는 메인 화면  
